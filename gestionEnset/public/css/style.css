@@ -1,0 +1,20 @@
+:root{/*Variable couleur*/
+    --black: #333333;
+    --blue: #7186FF;
+    --red: #C1272D;
+    --shaded-red: rgb(223, 149, 149);
+    --green: #00751F;
+    --white: #FFF;
+    --twhite: rgba(155, 155, 155, 0.678);
+    box-sizing: border-box;
+}
+* {
+    box-sizing: inherit;
+}
+img{
+    max-width: 100%;
+}
+body{
+    font-family: raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
